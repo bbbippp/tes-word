@@ -1,1 +1,17 @@
-ubah file
+instal logmont (log monitor) - kalo server windows
+apache - bin - php.ini (ada yg beda versi) 
+xampp - php - php.ini (curl) - aktifin curl
+
+restart xampp
+
+set password xampp mysql buat root
+
+copy source - config database folder app n application 
+
+user : root
+pass : tps0nl1n3@3d11
+db : dbport
+
+database ---
+empty definer and function  
+ubah app_user -- kd_tps sama kd_gudang
